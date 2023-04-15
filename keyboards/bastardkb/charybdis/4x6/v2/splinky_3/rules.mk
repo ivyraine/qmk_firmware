@@ -14,6 +14,7 @@ NKRO_ENABLE = yes           # Enable N-Key Rollover
 BACKLIGHT_ENABLE = no       # Enable keyboard backlight functionality
 RGBLIGHT_ENABLE = no        # Enable keyboard RGB underglow
 AUDIO_ENABLE = no           # Audio output
+KEY_OVERRIDE_ENABLE = yes   
 
 AUDIO_SUPPORTED = no        # Audio is not supported
 RGB_MATRIX_SUPPORTED = yes  # RGB matrix is supported and enabled by default
